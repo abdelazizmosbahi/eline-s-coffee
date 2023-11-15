@@ -1,9 +1,8 @@
-/*!
- * Bootstrap v4.1.0 (https://getbootstrap.com/)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+.logo {
+  width: 100px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -8477,6 +8476,10 @@ textarea.form-control {
 .ftco-animate {
   opacity: 0;
   visibility: hidden; }
+  .bg-najeh {
+  background-color: #000 !important; /* #000 represents black */
+}
+
 
 .bg-primary {
   background: #c49b63 !important; }
